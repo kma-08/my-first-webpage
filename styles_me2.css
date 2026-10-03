@@ -76,3 +76,7 @@ th, td{
 #author{
     text-align: right;
 }
+
+ol {
+    list-style-type: lower-greek;
+}
